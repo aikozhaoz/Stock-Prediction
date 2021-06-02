@@ -1,1 +1,1 @@
-# Stock-Prediction
+# Stock Price Prediction Using Python & Machine Learning
