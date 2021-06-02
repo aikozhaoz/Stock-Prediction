@@ -4,3 +4,4 @@ This program uses an artificial recurrent neural network called Long Short Term 
 
 ## Resources:
 https://randerson112358.medium.com/stock-price-prediction-using-python-machine-learning-e82a039ac2bb.
+https://www.youtube.com/watch?v=QIUxPv5PJOY
